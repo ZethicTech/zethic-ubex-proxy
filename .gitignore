@@ -1,0 +1,21 @@
+# Build output (root-only, so cmd/fc-proxy is not ignored)
+build/
+/fc-proxy
+/fc-proxy.exe
+/fc-proxy-linux
+*.exe
+
+# Local config - contains the shared secret and client credentials
+fc-proxy.env
+.env
+
+# Local ledger and exports
+*.db
+*.db-shm
+*.db-wal
+fc-proxy-*.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
