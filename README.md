@@ -121,3 +121,9 @@ must stay out of the repo.
 - **Cert errors** — self-signed internal host; run with `-insecure`.
 - **Debugging a failed call** — take `X-Proxy-Ledger-Id` from the response and
   read that row out of the ledger.
+
+## Built by Zethic
+
+`fc-proxy` is built and maintained by **[Zethic](https://zethic.com)**, a software and AI engineering studio in Bengaluru.
+
+Working on core banking integrations? We do **[banking software development](https://zethic.com/industries/financial-services/banking-solutions/)** — [hire dedicated engineers or talk to us about consulting →](https://zethic.com/contact-us/)
